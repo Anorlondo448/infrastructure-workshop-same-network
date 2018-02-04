@@ -20,10 +20,7 @@
 ---
 
 ## 発表する人
-- Anorlondo448(あのーるろんど)
-  - twitter(@Anorlondo448)
-  - Qiita(@Anorlondo448)
-  - ![アイコン](https://avatars1.githubusercontent.com/u/14850016?s=460&v=4 "アイコン")
+- [Anorlondo448(あのーるろんど)](https://wiki.infra-workshop.tech/user/Anorlondo448)
 
 ---
 
